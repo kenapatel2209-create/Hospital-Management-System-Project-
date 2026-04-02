@@ -5,7 +5,7 @@ The Hospital Management System is a console-based application developed using C+
 
 This project demonstrates core OOP principles including Encapsulation, Inheritance, Polymorphism, and Abstraction.
 
-2.Features 👨‍⚕️ Doctor Management :
+2.Features Doctor Management :
 
 Add new doctors View all doctors Store specialization, availability, and consultation fee
 
